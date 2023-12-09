@@ -141,7 +141,7 @@
 
 <p>
   &nbsp;<img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=sohelranaweb&show_icons=true&locale=en"
     alt="sohelranaweb"
   />
