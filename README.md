@@ -130,7 +130,7 @@
     />
   </a>
 </p>
- <h3 align="left">Current Stats:</h3>
+
 <p>
   <img
     align="left"
@@ -146,7 +146,7 @@
     alt="sohelranaweb"
   />
 </p>
-
+ <h3 align="left">Current Stats:</h3>
 <p>
   <img
     align="center"
