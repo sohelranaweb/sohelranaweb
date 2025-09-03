@@ -181,7 +181,7 @@
  <h3 align="left">Current Stats:</h3>
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sohelranaweb"
+    src="https://streak-stats.demolab.com?user=sohelranaweb&theme=default"
     alt="sohelranaweb"
   />
 </p>
