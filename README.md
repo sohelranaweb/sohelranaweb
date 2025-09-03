@@ -1,7 +1,7 @@
 ![Header](https://github.com/sohelranaweb/sohelranaweb/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I’m a passionate junior web developer who enjoys solving problems, learning new skills, and building user-friendly applications. Always eager to grow, improve, and contribute to meaningful projects.</h3>
 <img
   src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding"
