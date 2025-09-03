@@ -179,10 +179,9 @@
   />
 </p>
  <h3 align="left">Current Stats:</h3>
-<p>
+<p align="center">
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sohelranaweb&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sohelranaweb"
     alt="sohelranaweb"
   />
 </p>
