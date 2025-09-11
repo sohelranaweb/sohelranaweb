@@ -3,7 +3,7 @@
 ## About Me 
 
 
-Hi there! I'm <b>Sohel Rana</b>. I'm a <b>MERN Stack Developer</b> passionate about creating intuitive web applications. I constantly learn new technologies and enjoy contributing to impactful projects.
+Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate about creating intuitive web applications. I constantly learn new technologies and enjoy contributing to impactful projects.
 
 <h3>In my coding process, I utilize</h3>
 
