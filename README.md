@@ -3,7 +3,7 @@
 ## About Me 
 
 Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate Software Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
-
+I’m Sohel Rana, a junior MERN Stack developer passionate about creating intuitive web applications, constantly learning new technologies, and contributing to impactful projects while developing my skills as a full-stack developer.
 
 <h3>When I code, I rely on</h3>
 
