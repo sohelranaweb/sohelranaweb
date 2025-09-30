@@ -22,7 +22,8 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohelRana&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohelRana&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohelRana&theme=transparent&hide_border=true&cache_seconds=1800) |
+
 
 
 
