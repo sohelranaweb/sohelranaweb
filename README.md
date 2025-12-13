@@ -16,6 +16,8 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)                                                          |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
+
+
 ## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
@@ -24,5 +26,9 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 
 
 
+## Github Stats
 
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranaweb&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelranaweb&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800) | ![GitHub Streak](https://github-readme-stats.vercel.app/api/streak/?user=sohelranaweb&theme=transparent&hide_border=true) |
 
