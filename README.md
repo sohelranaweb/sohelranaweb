@@ -17,13 +17,11 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
 
-
- ## Github Stats
+## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohelRana&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohelRana&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohelRana&theme=transparent&hide_border=true&cache_seconds=1800) |
-
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranaweb&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelranaweb&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohelranaweb&theme=transparent&hide_border=true&cache_seconds=1800) |
 
 
 
