@@ -17,7 +17,18 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
 
+###
 
+<h2 align="left">GitHub Streak Stats</h2>
+
+###
+
+<div align="left">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=sohelranaweb&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
+</a>
+</div>
 ## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
