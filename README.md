@@ -29,11 +29,7 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
   <img src="https://nirzak-streak-stats.vercel.app?user=sohelranaweb&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
 </a>
 </div>
-## Github Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranaweb&layout=compact&theme=dark&hide_border=true&count_private=true) |
 
 
 
