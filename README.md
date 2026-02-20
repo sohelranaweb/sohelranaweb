@@ -33,7 +33,7 @@ Hi there! I'm <b>Sohel Rana</b>. I'm a <b>Full Stack Developer</b> passionate ab
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranaweb&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelranaweb&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800) | ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=sohelranaweb&theme=transparent) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranaweb&layout=compact&theme=dark&hide_border=true&count_private=true) |
 
 
 
